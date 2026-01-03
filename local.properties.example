@@ -1,0 +1,5 @@
+#1.Configure your JIRA-access with URL,email and API token.
+#2.Rename this file to "local.properties"
+jira.url="<url_here>"
+jira.email="<email_here>"
+jira.api_token="<token_here>"
